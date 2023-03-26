@@ -1,0 +1,4 @@
+name: announce1
+version: '1.0'
+main: love.chihuyu.announce1.Announce1
+api-version: 1.19
